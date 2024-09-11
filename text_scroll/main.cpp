@@ -6,11 +6,11 @@
 #include "efontEnableJa.h"
 
 // WiFi設定
-const char* ssid = "TP-Link_IoT_B4F4";  // WiFiのSSIDを指定
-const char* password = "46008213";  // WiFiのパスワードを指定
+const char* ssid = "your ssid";  // WiFiのSSIDを指定
+const char* password = "your password";  // WiFiのパスワードを指定
 
 // サーバーとクライアントの設定
-const char* serverAddress = "192.168.0.65";  // サーバーのアドレスを指定
+const char* serverAddress = "your address";  // サーバーのアドレスを指定
 const int serverPort = 10024;
 const int clientPort = 10025;
 
