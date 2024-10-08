@@ -1,2 +1,5 @@
-・string型とchar型の変換がc_str()で上手くいかない時の対処法（https://www.sejuku.net/blog/25859）
-・M5stack画面のチラつきの対処法候補①Sprite（https://karakuri-musha.com/inside-technology/arduino-m5stack-display-02-lovyangfx-sprite/）
+テキストスクロール
+　・string型とchar型の変換がc_str()で上手くいかない時の対処法（https://www.sejuku.net/blog/25859）
+　・M5stack画面のチラつきの対処法候補①Sprite（https://karakuri-musha.com/inside-technology/arduino-m5stack-display-02-lovyangfx-sprite/）
+
+mediapipe
