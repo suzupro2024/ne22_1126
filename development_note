@@ -3,3 +3,5 @@
 　・M5stack画面のチラつきの対処法候補①Sprite（https://karakuri-musha.com/inside-technology/arduino-m5stack-display-02-lovyangfx-sprite/）
 
 mediapipe
+・ニューラルネットワークで学習モデルを作成する際に、kerasライブラリを読み込む必要があったが、python3.9.6（最新バージョン)には対応しておらずロードエラーが生じた。
+　→python3.8.2とダウングレードすることで解決（公式レファレンス（https://keras.io/getting_started/）には参照が見つからなかったが、過去の記事からpython3.6~3.8に対応しているとのこと）
