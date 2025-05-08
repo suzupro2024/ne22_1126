@@ -1,7 +1,7 @@
 1. text to display
  - M5stack上に音声をテキストベースに変換したものを表示するためのもの。
 
-#### ※M5Stack
+#### ※https://m5stack.com/
  - M5Stack は、約5cm×5cmの正方形のケースの中にWi-FiとBluetoothによる無線通信機能を備えたCPU(ESP32基盤)に加え、ディスプレイ・スイッチ・スピーカーなどの周辺部品がひとつのモジュールにまとまっている、小型のマイコンモジュール。
 
 2. Continuous text to display
