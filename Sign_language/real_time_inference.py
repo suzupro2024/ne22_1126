@@ -4,7 +4,7 @@ import mediapipe as mp
 from tensorflow.keras.models import load_model
 from main import SEQUENCE_LENGTH, LABELS
 
-model = load_model('sign_language_model.h5')
+model = load_model('your_language_model')
 
 mp_hands = mp.solutions.hands
 mp_drawing = mp.solutions.drawing_utils
