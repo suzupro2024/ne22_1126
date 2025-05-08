@@ -1,2 +1,3 @@
-1. Continuous text to display
-2. 
+1. text_to_display
+2. Continuous_text_to_display
+3. 
